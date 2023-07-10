@@ -5,7 +5,7 @@ int main (void) {
      char c = 'A';
      a = 20 ;
      b = 50 ;
-     printf(" hello selena ");
+     printf(" hello ruby ");
      printf(" my height is %d m %f cm \n",i,f);
      printf(" in my last name , its first letter is %c \n",c);
      printf(" a + b = %d \n",a+b );
